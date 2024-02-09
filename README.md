@@ -1,2 +1,3 @@
-This is my first Git Repository.
-Author- Kabeer Ghai
+Author - Kabeer Ghai
+<br>
+Languages used - HTML, CSS, Java Script
